@@ -34,7 +34,7 @@ It allows users to upload datasets in multiple formats (CSV, Excel, JSON, XML, S
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sundar-Pachamuthu/Automated_ML_Pipeline_with_Interactive_EDA/.git
-   cd MLProjectSample
+   cd Automated_ML_Pipeline_with_Interactive_EDA
    
 2. Install dependencies:
    ```bash
